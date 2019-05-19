@@ -1,6 +1,6 @@
 # gitUdemy
 Udemy course examples
-# Star Wars Repo
+# Minhas habilidades
 
 ![./git01.jpeg](habilidades)
 
